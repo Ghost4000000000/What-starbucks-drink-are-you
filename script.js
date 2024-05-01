@@ -10,3 +10,4 @@ let option8 = document.querySelector(".option-eight").value;
 
 
 let result = document.querySelector(".result");
+
